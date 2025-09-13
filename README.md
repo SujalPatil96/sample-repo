@@ -1,3 +1,4 @@
 # sample-repo
-1st repo
-author is sujal patil
+1st repo.
+<br>
+Author is sujal patil
